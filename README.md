@@ -1,9 +1,10 @@
 # cvm-attestation-azure
 
+run `chmod u+x ./check_prerequisites.sh`
+
 run `./check_prerequisites.sh` Then:
 ```
-cd build
-cmake ..
+cmake .
 make
-./SampleAppAzureCVMAttestation
+sudo ./SampleAppAzureCVMAttestation
 ```
