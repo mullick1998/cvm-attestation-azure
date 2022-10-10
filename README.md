@@ -8,4 +8,4 @@ cmake .
 make
 sudo ./SampleAppAzureCVMAttestation
 ```
-<img src="capture.png" alt="result"/>
+<img src="Capture.PNG" alt="result"/>
